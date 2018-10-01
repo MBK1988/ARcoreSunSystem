@@ -11,7 +11,7 @@ public class ScaleScript : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+// start something here
     }
 
     // Update is called once per frame
